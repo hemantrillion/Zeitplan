@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+web-build/
+.env
+assets/logo_dark.png
+assets/logo_light.png
+assets/icon.png
+assets/adaptive-icon.png
+assets/splash.png
